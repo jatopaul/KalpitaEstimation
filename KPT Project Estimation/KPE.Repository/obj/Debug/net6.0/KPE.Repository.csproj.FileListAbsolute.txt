@@ -1,0 +1,15 @@
+C:\Users\NarendraTawade\source\repos\KPTProjectEstimation\KPT Project Estimation\KPE.Repository\bin\Debug\net6.0\KPE.Repository.deps.json
+C:\Users\NarendraTawade\source\repos\KPTProjectEstimation\KPT Project Estimation\KPE.Repository\bin\Debug\net6.0\KPE.Repository.dll
+C:\Users\NarendraTawade\source\repos\KPTProjectEstimation\KPT Project Estimation\KPE.Repository\bin\Debug\net6.0\KPE.Repository.pdb
+C:\Users\NarendraTawade\source\repos\KPTProjectEstimation\KPT Project Estimation\KPE.Repository\bin\Debug\net6.0\KPE.Model.dll
+C:\Users\NarendraTawade\source\repos\KPTProjectEstimation\KPT Project Estimation\KPE.Repository\bin\Debug\net6.0\KPE.Model.pdb
+C:\Users\NarendraTawade\source\repos\KPTProjectEstimation\KPT Project Estimation\KPE.Repository\obj\Debug\net6.0\KPE.Repository.csproj.AssemblyReference.cache
+C:\Users\NarendraTawade\source\repos\KPTProjectEstimation\KPT Project Estimation\KPE.Repository\obj\Debug\net6.0\KPE.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NarendraTawade\source\repos\KPTProjectEstimation\KPT Project Estimation\KPE.Repository\obj\Debug\net6.0\KPE.Repository.AssemblyInfoInputs.cache
+C:\Users\NarendraTawade\source\repos\KPTProjectEstimation\KPT Project Estimation\KPE.Repository\obj\Debug\net6.0\KPE.Repository.AssemblyInfo.cs
+C:\Users\NarendraTawade\source\repos\KPTProjectEstimation\KPT Project Estimation\KPE.Repository\obj\Debug\net6.0\KPE.Repository.csproj.CoreCompileInputs.cache
+C:\Users\NarendraTawade\source\repos\KPTProjectEstimation\KPT Project Estimation\KPE.Repository\obj\Debug\net6.0\KPE.Repository.csproj.CopyComplete
+C:\Users\NarendraTawade\source\repos\KPTProjectEstimation\KPT Project Estimation\KPE.Repository\obj\Debug\net6.0\KPE.Repository.dll
+C:\Users\NarendraTawade\source\repos\KPTProjectEstimation\KPT Project Estimation\KPE.Repository\obj\Debug\net6.0\refint\KPE.Repository.dll
+C:\Users\NarendraTawade\source\repos\KPTProjectEstimation\KPT Project Estimation\KPE.Repository\obj\Debug\net6.0\KPE.Repository.pdb
+C:\Users\NarendraTawade\source\repos\KPTProjectEstimation\KPT Project Estimation\KPE.Repository\obj\Debug\net6.0\ref\KPE.Repository.dll

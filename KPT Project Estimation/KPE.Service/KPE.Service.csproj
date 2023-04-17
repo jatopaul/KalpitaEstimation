@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KPE.Model\KPE.Model.csproj" />
+    <ProjectReference Include="..\KPE.Repository\KPE.Repository.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Implementation\" />
+    <Folder Include="Interface\" />
+  </ItemGroup>
+
+</Project>

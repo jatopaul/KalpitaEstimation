@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KPE.Repository/1.0.0": {
+        "dependencies": {
+          "KPE.Model": "1.0.0"
+        },
+        "runtime": {
+          "KPE.Repository.dll": {}
+        }
+      },
+      "KPE.Model/1.0.0": {
+        "runtime": {
+          "KPE.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KPE.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KPE.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

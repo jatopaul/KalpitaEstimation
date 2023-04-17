@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KPE.DependencyInjection/1.0.0": {
+        "dependencies": {
+          "KPE.Service": "1.0.0"
+        },
+        "runtime": {
+          "KPE.DependencyInjection.dll": {}
+        }
+      },
+      "KPE.Model/1.0.0": {
+        "runtime": {
+          "KPE.Model.dll": {}
+        }
+      },
+      "KPE.Repository/1.0.0": {
+        "dependencies": {
+          "KPE.Model": "1.0.0"
+        },
+        "runtime": {
+          "KPE.Repository.dll": {}
+        }
+      },
+      "KPE.Service/1.0.0": {
+        "dependencies": {
+          "KPE.Model": "1.0.0",
+          "KPE.Repository": "1.0.0"
+        },
+        "runtime": {
+          "KPE.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KPE.DependencyInjection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KPE.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KPE.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KPE.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

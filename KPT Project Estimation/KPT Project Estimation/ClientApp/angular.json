@@ -129,5 +129,8 @@
       }
     }
   },
-  "defaultProject": "KPT_Project_Estimation"
+  "defaultProject": "KPT_Project_Estimation",
+  "cli": {
+    "analytics": false
+  }
 }
