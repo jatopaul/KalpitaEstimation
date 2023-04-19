@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPT Project Estimation", "KPT Project Estimation\KPT Project Estimation.csproj", "{3F713793-3FCB-45B1-BA3E-7DA45A54DB38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KPT Project Estimation", "KPT Project Estimation\KPT Project Estimation.csproj", "{3F713793-3FCB-45B1-BA3E-7DA45A54DB38}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KPE.DependencyInjection", "KPE.DependencyInjection\KPE.DependencyInjection.csproj", "{A8F8AE20-5FC4-473D-AE4E-4C4280B6276A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KPE.Model", "KPE.Model\KPE.Model.csproj", "{3274318D-8805-4C20-83A8-747209DD1C05}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KPE.Repository", "KPE.Repository\KPE.Repository.csproj", "{81CC6F54-71EC-46D9-8370-43DECBBE6099}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KPE.Service", "KPE.Service\KPE.Service.csproj", "{4659C84B-84EE-46E4-856E-47FA83BDA869}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPE.Framework", "KPE.Framework\KPE.Framework.csproj", "{39B4084A-7142-4B68-A78A-7E679DE795DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{3F713793-3FCB-45B1-BA3E-7DA45A54DB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F713793-3FCB-45B1-BA3E-7DA45A54DB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F713793-3FCB-45B1-BA3E-7DA45A54DB38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8F8AE20-5FC4-473D-AE4E-4C4280B6276A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F8AE20-5FC4-473D-AE4E-4C4280B6276A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F8AE20-5FC4-473D-AE4E-4C4280B6276A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F8AE20-5FC4-473D-AE4E-4C4280B6276A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3274318D-8805-4C20-83A8-747209DD1C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3274318D-8805-4C20-83A8-747209DD1C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3274318D-8805-4C20-83A8-747209DD1C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3274318D-8805-4C20-83A8-747209DD1C05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81CC6F54-71EC-46D9-8370-43DECBBE6099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81CC6F54-71EC-46D9-8370-43DECBBE6099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81CC6F54-71EC-46D9-8370-43DECBBE6099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81CC6F54-71EC-46D9-8370-43DECBBE6099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4659C84B-84EE-46E4-856E-47FA83BDA869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4659C84B-84EE-46E4-856E-47FA83BDA869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4659C84B-84EE-46E4-856E-47FA83BDA869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4659C84B-84EE-46E4-856E-47FA83BDA869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39B4084A-7142-4B68-A78A-7E679DE795DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B4084A-7142-4B68-A78A-7E679DE795DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B4084A-7142-4B68-A78A-7E679DE795DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B4084A-7142-4B68-A78A-7E679DE795DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
