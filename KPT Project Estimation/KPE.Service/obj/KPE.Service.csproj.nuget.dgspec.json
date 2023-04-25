@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SagarChinchane\\Desktop\\New folder (4)\\KPT Project Estimation\\KPE.Service\\KPE.Service.csproj": {}
+    "C:\\Users\\AbhijeetChanale\\Desktop\\KT_Estimation\\Architecture Setup\\KPT Project Estimation\\KPE.Service\\KPE.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SagarChinchane\\Desktop\\New folder (4)\\KPT Project Estimation\\KPE.Model\\KPE.Model.csproj": {
+    "C:\\Users\\AbhijeetChanale\\Desktop\\KT_Estimation\\Architecture Setup\\KPT Project Estimation\\KPE.Model\\KPE.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SagarChinchane\\Desktop\\New folder (4)\\KPT Project Estimation\\KPE.Model\\KPE.Model.csproj",
+        "projectUniqueName": "C:\\Users\\AbhijeetChanale\\Desktop\\KT_Estimation\\Architecture Setup\\KPT Project Estimation\\KPE.Model\\KPE.Model.csproj",
         "projectName": "KPE.Model",
-        "projectPath": "C:\\Users\\SagarChinchane\\Desktop\\New folder (4)\\KPT Project Estimation\\KPE.Model\\KPE.Model.csproj",
-        "packagesPath": "C:\\Users\\SagarChinchane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SagarChinchane\\Desktop\\New folder (4)\\KPT Project Estimation\\KPE.Model\\obj\\",
+        "projectPath": "C:\\Users\\AbhijeetChanale\\Desktop\\KT_Estimation\\Architecture Setup\\KPT Project Estimation\\KPE.Model\\KPE.Model.csproj",
+        "packagesPath": "C:\\Users\\AbhijeetChanale\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AbhijeetChanale\\Desktop\\KT_Estimation\\Architecture Setup\\KPT Project Estimation\\KPE.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SagarChinchane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AbhijeetChanale\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -62,20 +62,20 @@
         }
       }
     },
-    "C:\\Users\\SagarChinchane\\Desktop\\New folder (4)\\KPT Project Estimation\\KPE.Repository\\KPE.Repository.csproj": {
+    "C:\\Users\\AbhijeetChanale\\Desktop\\KT_Estimation\\Architecture Setup\\KPT Project Estimation\\KPE.Repository\\KPE.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SagarChinchane\\Desktop\\New folder (4)\\KPT Project Estimation\\KPE.Repository\\KPE.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\AbhijeetChanale\\Desktop\\KT_Estimation\\Architecture Setup\\KPT Project Estimation\\KPE.Repository\\KPE.Repository.csproj",
         "projectName": "KPE.Repository",
-        "projectPath": "C:\\Users\\SagarChinchane\\Desktop\\New folder (4)\\KPT Project Estimation\\KPE.Repository\\KPE.Repository.csproj",
-        "packagesPath": "C:\\Users\\SagarChinchane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SagarChinchane\\Desktop\\New folder (4)\\KPT Project Estimation\\KPE.Repository\\obj\\",
+        "projectPath": "C:\\Users\\AbhijeetChanale\\Desktop\\KT_Estimation\\Architecture Setup\\KPT Project Estimation\\KPE.Repository\\KPE.Repository.csproj",
+        "packagesPath": "C:\\Users\\AbhijeetChanale\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AbhijeetChanale\\Desktop\\KT_Estimation\\Architecture Setup\\KPT Project Estimation\\KPE.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SagarChinchane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AbhijeetChanale\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -90,8 +90,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\SagarChinchane\\Desktop\\New folder (4)\\KPT Project Estimation\\KPE.Model\\KPE.Model.csproj": {
-                "projectPath": "C:\\Users\\SagarChinchane\\Desktop\\New folder (4)\\KPT Project Estimation\\KPE.Model\\KPE.Model.csproj"
+              "C:\\Users\\AbhijeetChanale\\Desktop\\KT_Estimation\\Architecture Setup\\KPT Project Estimation\\KPE.Model\\KPE.Model.csproj": {
+                "projectPath": "C:\\Users\\AbhijeetChanale\\Desktop\\KT_Estimation\\Architecture Setup\\KPT Project Estimation\\KPE.Model\\KPE.Model.csproj"
               }
             }
           }
@@ -146,20 +146,20 @@
         }
       }
     },
-    "C:\\Users\\SagarChinchane\\Desktop\\New folder (4)\\KPT Project Estimation\\KPE.Service\\KPE.Service.csproj": {
+    "C:\\Users\\AbhijeetChanale\\Desktop\\KT_Estimation\\Architecture Setup\\KPT Project Estimation\\KPE.Service\\KPE.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SagarChinchane\\Desktop\\New folder (4)\\KPT Project Estimation\\KPE.Service\\KPE.Service.csproj",
+        "projectUniqueName": "C:\\Users\\AbhijeetChanale\\Desktop\\KT_Estimation\\Architecture Setup\\KPT Project Estimation\\KPE.Service\\KPE.Service.csproj",
         "projectName": "KPE.Service",
-        "projectPath": "C:\\Users\\SagarChinchane\\Desktop\\New folder (4)\\KPT Project Estimation\\KPE.Service\\KPE.Service.csproj",
-        "packagesPath": "C:\\Users\\SagarChinchane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SagarChinchane\\Desktop\\New folder (4)\\KPT Project Estimation\\KPE.Service\\obj\\",
+        "projectPath": "C:\\Users\\AbhijeetChanale\\Desktop\\KT_Estimation\\Architecture Setup\\KPT Project Estimation\\KPE.Service\\KPE.Service.csproj",
+        "packagesPath": "C:\\Users\\AbhijeetChanale\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AbhijeetChanale\\Desktop\\KT_Estimation\\Architecture Setup\\KPT Project Estimation\\KPE.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SagarChinchane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AbhijeetChanale\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -174,11 +174,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\SagarChinchane\\Desktop\\New folder (4)\\KPT Project Estimation\\KPE.Model\\KPE.Model.csproj": {
-                "projectPath": "C:\\Users\\SagarChinchane\\Desktop\\New folder (4)\\KPT Project Estimation\\KPE.Model\\KPE.Model.csproj"
+              "C:\\Users\\AbhijeetChanale\\Desktop\\KT_Estimation\\Architecture Setup\\KPT Project Estimation\\KPE.Model\\KPE.Model.csproj": {
+                "projectPath": "C:\\Users\\AbhijeetChanale\\Desktop\\KT_Estimation\\Architecture Setup\\KPT Project Estimation\\KPE.Model\\KPE.Model.csproj"
               },
-              "C:\\Users\\SagarChinchane\\Desktop\\New folder (4)\\KPT Project Estimation\\KPE.Repository\\KPE.Repository.csproj": {
-                "projectPath": "C:\\Users\\SagarChinchane\\Desktop\\New folder (4)\\KPT Project Estimation\\KPE.Repository\\KPE.Repository.csproj"
+              "C:\\Users\\AbhijeetChanale\\Desktop\\KT_Estimation\\Architecture Setup\\KPT Project Estimation\\KPE.Repository\\KPE.Repository.csproj": {
+                "projectPath": "C:\\Users\\AbhijeetChanale\\Desktop\\KT_Estimation\\Architecture Setup\\KPT Project Estimation\\KPE.Repository\\KPE.Repository.csproj"
               }
             }
           }

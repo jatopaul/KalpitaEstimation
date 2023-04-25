@@ -28,3 +28,18 @@ C:\Users\SagarChinchane\Desktop\New folder (4)\KPT Project Estimation\KPE.Reposi
 C:\Users\SagarChinchane\Desktop\New folder (4)\KPT Project Estimation\KPE.Repository\obj\Debug\net6.0\refint\KPE.Repository.dll
 C:\Users\SagarChinchane\Desktop\New folder (4)\KPT Project Estimation\KPE.Repository\obj\Debug\net6.0\KPE.Repository.pdb
 C:\Users\SagarChinchane\Desktop\New folder (4)\KPT Project Estimation\KPE.Repository\obj\Debug\net6.0\ref\KPE.Repository.dll
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Repository\bin\Debug\net6.0\KPE.Repository.deps.json
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Repository\bin\Debug\net6.0\KPE.Repository.dll
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Repository\bin\Debug\net6.0\KPE.Repository.pdb
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Repository\bin\Debug\net6.0\KPE.Model.dll
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Repository\bin\Debug\net6.0\KPE.Model.pdb
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Repository\obj\Debug\net6.0\KPE.Repository.csproj.AssemblyReference.cache
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Repository\obj\Debug\net6.0\KPE.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Repository\obj\Debug\net6.0\KPE.Repository.AssemblyInfoInputs.cache
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Repository\obj\Debug\net6.0\KPE.Repository.AssemblyInfo.cs
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Repository\obj\Debug\net6.0\KPE.Repository.csproj.CoreCompileInputs.cache
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Repository\obj\Debug\net6.0\KPE.Repository.csproj.CopyComplete
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Repository\obj\Debug\net6.0\KPE.Repository.dll
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Repository\obj\Debug\net6.0\refint\KPE.Repository.dll
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Repository\obj\Debug\net6.0\KPE.Repository.pdb
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Repository\obj\Debug\net6.0\ref\KPE.Repository.dll
