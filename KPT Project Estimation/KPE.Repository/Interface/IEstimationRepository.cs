@@ -9,6 +9,10 @@ namespace KPE.Repository.Interface
 {
     public interface IEstimationRepository
     {
-        Task<IEnumerable<StoryName>> GetAll();
+        Task<IEnumerable<StoryNames>> GetAll();
+        Task<bool> AddStoryDiscription(StoryNames InsertStory);
+        Task<bool> UpdateStoryTable(StoryNames UpdateStory);
+        Task<bool> DeleteStoryById(int Id);
+
     }
 }

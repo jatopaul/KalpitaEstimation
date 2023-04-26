@@ -9,6 +9,11 @@ namespace KPE.Service.Interface
 {
     public interface IEstimationService
     {
-        Task<List<StoryName>> GetAll();
+        Task<List<StoryNames>> GetAll();
+
+        Task<ResponseModel<bool>> AddStoryDiscription(StoryNames InsertStory);
+        Task<ResponseModel<bool>> UpdateStoryTable(StoryNames UpdateStory);
+        Task<ResponseModel<bool>> DeleteStoryById(int Id);
+
     }
 }

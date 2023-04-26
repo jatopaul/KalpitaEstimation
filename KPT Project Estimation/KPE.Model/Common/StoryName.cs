@@ -6,22 +6,15 @@ using System.Threading.Tasks;
 
 namespace KPE.Model.Common
 {
-    public class StoryName
+    public class StoryNames
     {
+        public int StoryId { get; set; }
+        public string? StoryName { get; set; }
 
-        public int Story_ID { get; set; }
-
-        public string? Story_Name { get; set; }
-
-        public string Story_Discription { get; set; }
-
-        public DateTime Add_Date { get; set; }
-        public string AddBy { get; set; }
-        public DateTime Modified_Date { get; set; }
-
-        public bool Is_Deleted { get; set; }
-
-        public int Project_Id { get; set; }
+        public string? StoryDiscription { get; set; }    
+        public string? AddBy { get; set; }
+        public bool IsDeleted { get; set; }
+        public int ProjectId { get; set; }
 
 
 

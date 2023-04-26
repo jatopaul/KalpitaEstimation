@@ -38,3 +38,24 @@ C:\Users\SagarChinchane\Desktop\New folder (4)\KPT Project Estimation\KPE.Depend
 C:\Users\SagarChinchane\Desktop\New folder (4)\KPT Project Estimation\KPE.DependencyInjection\obj\Debug\net6.0\ref\KPE.DependencyInjection.dll
 C:\Users\SagarChinchane\Desktop\New folder (4)\KPT Project Estimation\KPE.DependencyInjection\bin\Debug\net6.0\KPE.Framework.dll
 C:\Users\SagarChinchane\Desktop\New folder (4)\KPT Project Estimation\KPE.DependencyInjection\bin\Debug\net6.0\KPE.Framework.pdb
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.DependencyInjection\bin\Debug\net6.0\KPE.DependencyInjection.deps.json
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.DependencyInjection\bin\Debug\net6.0\KPE.DependencyInjection.dll
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.DependencyInjection\bin\Debug\net6.0\KPE.DependencyInjection.pdb
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.DependencyInjection\bin\Debug\net6.0\KPE.Framework.dll
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.DependencyInjection\bin\Debug\net6.0\KPE.Model.dll
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.DependencyInjection\bin\Debug\net6.0\KPE.Repository.dll
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.DependencyInjection\bin\Debug\net6.0\KPE.Service.dll
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.DependencyInjection\bin\Debug\net6.0\KPE.Framework.pdb
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.DependencyInjection\bin\Debug\net6.0\KPE.Service.pdb
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.DependencyInjection\bin\Debug\net6.0\KPE.Model.pdb
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.DependencyInjection\bin\Debug\net6.0\KPE.Repository.pdb
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.DependencyInjection\obj\Debug\net6.0\KPE.DependencyInjection.csproj.AssemblyReference.cache
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.DependencyInjection\obj\Debug\net6.0\KPE.DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.DependencyInjection\obj\Debug\net6.0\KPE.DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.DependencyInjection\obj\Debug\net6.0\KPE.DependencyInjection.AssemblyInfo.cs
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.DependencyInjection\obj\Debug\net6.0\KPE.DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.DependencyInjection\obj\Debug\net6.0\KPE.DependencyInjection.csproj.CopyComplete
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.DependencyInjection\obj\Debug\net6.0\KPE.DependencyInjection.dll
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.DependencyInjection\obj\Debug\net6.0\refint\KPE.DependencyInjection.dll
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.DependencyInjection\obj\Debug\net6.0\KPE.DependencyInjection.pdb
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.DependencyInjection\obj\Debug\net6.0\ref\KPE.DependencyInjection.dll

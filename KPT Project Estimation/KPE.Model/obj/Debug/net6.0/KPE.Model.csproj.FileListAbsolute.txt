@@ -22,3 +22,15 @@ C:\Users\SagarChinchane\Desktop\New folder (4)\KPT Project Estimation\KPE.Model\
 C:\Users\SagarChinchane\Desktop\New folder (4)\KPT Project Estimation\KPE.Model\obj\Debug\net6.0\refint\KPE.Model.dll
 C:\Users\SagarChinchane\Desktop\New folder (4)\KPT Project Estimation\KPE.Model\obj\Debug\net6.0\KPE.Model.pdb
 C:\Users\SagarChinchane\Desktop\New folder (4)\KPT Project Estimation\KPE.Model\obj\Debug\net6.0\ref\KPE.Model.dll
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Model\bin\Debug\net6.0\KPE.Model.deps.json
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Model\bin\Debug\net6.0\KPE.Model.dll
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Model\bin\Debug\net6.0\KPE.Model.pdb
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Model\obj\Debug\net6.0\KPE.Model.csproj.AssemblyReference.cache
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Model\obj\Debug\net6.0\KPE.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Model\obj\Debug\net6.0\KPE.Model.AssemblyInfoInputs.cache
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Model\obj\Debug\net6.0\KPE.Model.AssemblyInfo.cs
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Model\obj\Debug\net6.0\KPE.Model.csproj.CoreCompileInputs.cache
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Model\obj\Debug\net6.0\KPE.Model.dll
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Model\obj\Debug\net6.0\refint\KPE.Model.dll
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Model\obj\Debug\net6.0\KPE.Model.pdb
+C:\Users\AbhijeetChanale\Desktop\KT_Estimation\Architecture Setup\KPT Project Estimation\KPE.Model\obj\Debug\net6.0\ref\KPE.Model.dll

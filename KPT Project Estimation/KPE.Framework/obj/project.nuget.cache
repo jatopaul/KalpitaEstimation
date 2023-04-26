@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "/CrKlRYfxgB+HcJLe0EMJRzAl/UXkS/mZy+dQ+3SmfH575OUTyGrEOK3I1qLUqeVy6KCR9HQPOj2wv0C+YqzdA==",
+  "dgSpecHash": "yWS6HIe5lNNjd43ZyyGVk3XqSswPKZt7IxpmBQ6yh51iTeVnB6d3YnTNaoqonwThZs9goiTRNjcS5uyD/O3WhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SagarChinchane\\Desktop\\New folder (4)\\KPT Project Estimation\\KPE.Framework\\KPE.Framework.csproj",
+  "projectFilePath": "C:\\Users\\AbhijeetChanale\\Desktop\\KT_Estimation\\Architecture Setup\\KPT Project Estimation\\KPE.Framework\\KPE.Framework.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\SagarChinchane\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\SagarChinchane\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.0\\microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
-    "C:\\Users\\SagarChinchane\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\SagarChinchane\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
-    "C:\\Users\\SagarChinchane\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\7.0.0\\microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
-    "C:\\Users\\SagarChinchane\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
-    "C:\\Users\\SagarChinchane\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\AbhijeetChanale\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\AbhijeetChanale\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.0\\microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
+    "C:\\Users\\AbhijeetChanale\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\AbhijeetChanale\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\AbhijeetChanale\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\7.0.0\\microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\AbhijeetChanale\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\AbhijeetChanale\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
