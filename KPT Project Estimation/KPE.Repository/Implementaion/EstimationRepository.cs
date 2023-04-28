@@ -40,6 +40,12 @@ namespace KPE.Repository.Implementaion
         {
             return await QueryProcedureAsync<StoryNames>("[dbo].[usp_GetStoryNames]");
         }
+
+        //this is for the table spprojectestimation and its hard coded so only get method is rewuored.
+        public async Task<IEnumerable<ProjectStoryEstimations>> GetProjectEstimation()
+        {
+            return await QueryProcedureAsync<ProjectStoryEstimations>("[dbo].[spGetProjectStoryEstimations]");
+        }
         //Story Post_Method
         public async Task<bool> AddStoryDiscription(StoryNames InsertStory)
         {
@@ -54,6 +60,42 @@ namespace KPE.Repository.Implementaion
             await QueryProcedureAsync<StoryNames>("[dbo].[usp_PostStoryNames]", SubmitData);
             return true;
         }
+
+
+
+
+
+
+
+        //Story Post_Method
+        public async Task<bool> PostProjectEstimation(ProjectStoryEstimations InsertProjectEstimation)
+        {
+            var SubmitData = new
+            {
+                @ProjecStoryEstimationid=InsertProjectEstimation.ProjectStoryEstimationID,
+                @Projectid = InsertProjectEstimation.ProjectId,
+                @Storyid=InsertProjectEstimation.StoryId,
+                @Verionno= InsertProjectEstimation.VerionNo,
+                @Categpryid= InsertProjectEstimation.CategpryId,
+                @Cutomtotal=InsertProjectEstimation.CutomTotal,
+                @Countofmodules=InsertProjectEstimation.CountOfModules,
+                @ProjectstoryestimationDescription=InsertProjectEstimation.ProjectStoryEstimationDescription,
+                @AddBy=InsertProjectEstimation.AddBy,
+                @Isdeleted=InsertProjectEstimation.IsDeleted
+            };
+            await QueryProcedureAsync<ProjectStoryEstimations>("[dbo].spPostProjectStoryEstimations", SubmitData);
+            return true;
+        }
+
+
+
+
+
+
+
+
+
+
 
         //Story Put_Method
         public async Task<bool>UpdateStoryTable(StoryNames UpdateStory)
@@ -73,6 +115,34 @@ namespace KPE.Repository.Implementaion
         }
 
 
+
+
+
+        public async Task<bool> UpdateProjectEstimation(ProjectStoryEstimations UpdateProjectEstimation)
+
+        {
+            var SubmitData = new
+            {
+                @ProjecStoryEstimationid = UpdateProjectEstimation.ProjectStoryEstimationID,
+                @Projectid = UpdateProjectEstimation.ProjectId,
+                @Storyid = UpdateProjectEstimation.StoryId,
+                @Verionno = UpdateProjectEstimation.VerionNo,
+                @Categpryid = UpdateProjectEstimation.CategpryId,
+                @Cutomtotal = UpdateProjectEstimation.CutomTotal,
+                @Countofmodules = UpdateProjectEstimation.CountOfModules,
+                @ProjectstoryestimationDescription = UpdateProjectEstimation.ProjectStoryEstimationDescription,
+                @AddBy = UpdateProjectEstimation.AddBy,
+                @Isdeleted = UpdateProjectEstimation.IsDeleted
+            };
+            await QueryProcedureAsync<ProjectStoryEstimations>("[dbo].spUpdateProjectStoryEstimations", SubmitData);
+            return true;
+        }
+
+
+
+
+
+
         public async Task<bool> DeleteStoryById(int Id)
         {
             var Data = new
@@ -81,6 +151,19 @@ namespace KPE.Repository.Implementaion
                 StoryId = Id
             };
             await QueryProcedureAsync<StoryNames>("[dbo].[usp_DeleteStoryNames]", Data);
+            return true;
+        }
+
+
+
+        public async Task<bool> DeleteProjectEstimationById(int Id)
+        {
+            var Data = new
+            {
+                //Action = "DELETE",
+                @ProjecStoryEstimationid = Id
+            };
+            await QueryProcedureAsync<ProjectStoryEstimations>("[dbo].[spDeleteProjectStoryEstimation]", Data);
             return true;
         }
 

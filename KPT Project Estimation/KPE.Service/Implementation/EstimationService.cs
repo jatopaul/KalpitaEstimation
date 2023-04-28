@@ -32,6 +32,14 @@ namespace KPE.Service.Implementation
             return user.ToList();
         }
 
+        public async Task<List<ProjectStoryEstimations>> GetProjectEstimation()
+        {
+            IEnumerable<ProjectStoryEstimations> user;
+            user = await _estimationRepository.GetProjectEstimation();
+            return user.ToList();
+        }
+
+
 
         //Story Post_Method
         public async Task<ResponseModel<bool>> AddStoryDiscription(StoryNames InsertStory)
@@ -61,6 +69,49 @@ namespace KPE.Service.Implementation
         }
 
 
+
+
+
+
+        //
+        public async Task<ResponseModel<bool>> PostProjectEstimation(ProjectStoryEstimations InsertProjectEstimation)
+        {
+            bool isValidRequest = false;
+
+            isValidRequest = await _estimationRepository.PostProjectEstimation(InsertProjectEstimation);
+            var res = new ResponseModel<bool>();
+            if (isValidRequest)
+            {
+                res.IsError = !isValidRequest;
+                res.Message = "Comment added successfully";
+                res.Data = isValidRequest;
+            }
+            else
+            {
+                res.IsError = !isValidRequest;
+                res.Message = "Error in adding the Comment";
+                res.Data = isValidRequest;
+            }
+            return res;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         //Story Put_Method
         public async Task<ResponseModel<bool>> UpdateStoryTable(StoryNames UpdateStory)
         {
@@ -83,12 +134,65 @@ namespace KPE.Service.Implementation
             return res;
         }
 
+
+
+
+
+
+
+        //Story Put_Method
+        public async Task<ResponseModel<bool>>  UpdateProjectEstimation(ProjectStoryEstimations UpdateProjectEstimation)
+        {
+            bool isValidRequest = false;
+
+            isValidRequest = await _estimationRepository.UpdateProjectEstimation(UpdateProjectEstimation);
+            var res = new ResponseModel<bool>();
+            if (!isValidRequest)
+            {
+                res.IsError = !isValidRequest;
+                res.Message = "Story Updated successfully";
+                res.Data = isValidRequest;
+            }
+            else
+            {
+                res.IsError = !isValidRequest;
+                res.Message = "Error in Updating Stories";
+                res.Data = isValidRequest;
+            }
+            return res;
+        }
+
+
+
+
+
+
         //Story Delete_Method
         public async Task<ResponseModel<bool>> DeleteStoryById(int Id)
         {
             string message = "Story deleted successfully";
             bool isError = false;
             await _estimationRepository.DeleteStoryById(Id);
+            var res = new ResponseModel<bool>()
+            {
+                IsError = isError,
+                Message = message,
+                Data = !isError
+            };
+            return res;
+        }
+
+
+
+
+
+
+        //Story Delete_Method
+        public async Task<ResponseModel<bool>> DeleteProjectEstimationById(int Id)
+        {
+            string message = "Story deleted successfully";
+            bool isError = false;
+            await _estimationRepository.DeleteProjectEstimationById(Id);
             var res = new ResponseModel<bool>()
             {
                 IsError = isError,

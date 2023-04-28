@@ -31,6 +31,15 @@ namespace KPT_Project_Estimation.Controllers
             return await _estimationService.GetAll();
         }
 
+        //Get method for ProjEstimationGet
+        [Route("ProjEstimationGet")]
+        [HttpGet]
+        public async Task<ActionResult<List<ProjectStoryEstimations>>> GetProjectEstimation()
+        {
+            return await _estimationService.GetProjectEstimation();
+        }
+
+
 
         [Route("Addconnection")]
         [HttpPost]
@@ -40,12 +49,42 @@ namespace KPT_Project_Estimation.Controllers
              
         }
 
+
+
+
+        [Route("ProjEstimationPost")]
+        [HttpPost]
+        public async Task<ResponseModel<bool>> PostProjectEstimation(ProjectStoryEstimations InsertProjectEstimation)
+        {
+            return await _estimationService.PostProjectEstimation(InsertProjectEstimation);
+
+        }
+
+
+
+
+
         [Route("StoryUpdate")]
         [HttpPut]
         public async Task<ResponseModel<bool>>UpdateStoryTable(StoryNames UpdateStory)
         {
             return await _estimationService.UpdateStoryTable(UpdateStory);
         }
+
+
+
+        [Route("ProjEstimationUpdate")]
+        [HttpPut]
+        public async Task<ResponseModel<bool>> UpdateProjectEstimation(ProjectStoryEstimations UpdateProjectEstimation)
+        {
+            return await _estimationService.UpdateProjectEstimation(UpdateProjectEstimation);
+        }
+
+
+
+
+
+
 
         [Route("DeleteStoryById/{Id}")]
         [HttpDelete]
@@ -55,6 +94,13 @@ namespace KPT_Project_Estimation.Controllers
         }
 
 
+
+        [Route("DeleteProjectEstimationById/{Id}")]
+        [HttpDelete]
+        public async Task<ResponseModel<bool>> DeleteProjectEstimationById(int Id)
+        {
+            return await _estimationService.DeleteProjectEstimationById(Id);
+        }
 
     }
 }
